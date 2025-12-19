@@ -48,11 +48,11 @@ python main.py
 **users** — id, username (unic), password
 **exercises** — id, user_id (FK), workout_name, name, weight, reps, date
 
-## Screenshot
+## Screenshots
 
-![Login screen](screenshots/login.png)
+![Overview - toate ecranele](screenshots/overview.png)
 
-Ecran de login - input pentru username si parola, butoane pentru login si redirectionare catre inregistrare.
+De la stanga la dreapta: login, adaugare antrenament, lista exercitii pe categorie, grafic de progres pentru un exercitiu in timp.
 
 ## Posibile îmbunătățiri viitoare
 
